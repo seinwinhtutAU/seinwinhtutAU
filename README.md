@@ -46,14 +46,14 @@
 
 ### 📌 Featured Projects
 
-#### 🔹 [BranchWise](https://github.com/seinwinhtutAU) — Business Monitoring & Decision Support
+#### 🔹 [BranchWise](https://github.com/seinwinhtutAU/branchwise) — Business Monitoring & Decision Support
 
 > A centralized platform helping retail and wholesale businesses monitor sales, inventory, purchasing, and branch-level performance.
 
 - **Tech Stack**: FastAPI, PostgreSQL, Supabase, Next.js, TypeScript.
 - **Highlights**: Business analytics dashboard, multi-branch monitoring, and operational insights.
 
-#### 🔹 [CodeFix](https://github.com/seinwinhtutAU) — Interactive Debugging Platform
+#### 🔹 [CodeFix](https://github.com/seinwinhtutAU/codefix_game) — Interactive Debugging Platform
 
 > An interactive educational platform designed to help users understand programming errors and improve their debugging skills.
 
