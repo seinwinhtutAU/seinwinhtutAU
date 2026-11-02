@@ -1,45 +1,68 @@
-<div align="center">
+# Hi, I'm Sein Win Htut 👋
 
-# 👋 Hi there, I'm seinwinhtutAU
+📍 Bangkok, Thailand
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Passionate+about+building+scalable+apps;Open+source+enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</a>
+I'm interested in building practical technology solutions and understanding how modern systems work.
 
-<p align="center">
-  <a href="https://seinwinhtut.github.io">🌐 Website</a> •
-  <a href="mailto:your_email@example.com">📫 Contact Me</a> •
-  <a href="https://www.linkedin.com/">💼 LinkedIn</a>
-</p>
+I enjoy solving real-world problems through technology, exploring backend systems, and learning about cloud infrastructure, DevOps, and software architecture.
 
----
+### 🎓 Education
+
+**Assumption University, Thailand**  
+Bachelor's Degree in Information Technology
 
 ### 🚀 About Me
 
-- 🔭 Currently working on exciting web development projects.
-- 🌱 Continuously learning new technologies and software architectures.
-- 💡 Interested in full-stack engineering, cloud services, and open-source tools.
-- ⚡ Fun fact: Always striving to turn coffee into clean, working code.
+- 💻 Experienced in building web applications and backend services.
+- 🏗️ Building **BranchWise**, a business monitoring and decision-support platform.
+- ☁️ Exploring Cloud Computing, Linux, Networking, and DevOps.
+- 🧠 Interested in Backend Architecture and System Design.
+- 🌏 Open to opportunities to learn, collaborate, and grow in the tech industry.
+
+### 🛠️ Technologies & Tools
+
+**Languages**
+- Python, TypeScript, Java
+
+**Backend & Database**
+- FastAPI, PostgreSQL, Supabase, REST APIs
+
+**Frontend**
+- React, Next.js, Flutter
+
+**Cloud & Infrastructure**
+- Microsoft Azure, AWS (Learning), Linux, Docker
+
+**Tools**
+- Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+**BranchWise — Business Monitoring & Decision Support System**
+
+A business intelligence platform designed to help monitor sales, inventory, purchasing, and business performance across multiple retail and wholesale branches.
+
+- Built with FastAPI, PostgreSQL, Next.js, and Supabase.
+- Provides business performance monitoring and analytical insights.
+- Designed to support better operational decisions.
+
+**CodeFix — Interactive Debugging Learning Platform**
+
+An educational platform designed to help users understand programming errors and improve their debugging skills through interactive learning.
+
+### 📚 Currently Exploring
+
+- Cloud Computing & AWS
+- Linux System Administration
+- Computer Networking
+- Docker & DevOps Fundamentals
+- Backend Architecture & System Design
+
+### 🌐 Connect With Me
+
+- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode,docker" />
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seinwinhtutAU&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seinwinhtutAU&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seinwinhtutAU&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-</div>
+⭐ *Always learning, building, and exploring how technology can solve real-world problems.*
