@@ -46,16 +46,20 @@
 
 ### 📌 Featured Projects
 
-#### 🔹 [BranchWise](https://github.com/seinwinhtutAU/branchwise) — Business Monitoring & Decision Support 
-[BranchWise Link](https://branchwise-demo.vercel.app/) 
+#### 🔹 BranchWise — Business Monitoring & Decision Support
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Preview-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://branchwise-demo.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seinwinhtutAU/branchwise)
 
 > A centralized platform helping retail and wholesale businesses monitor sales, inventory, purchasing, and branch-level performance.
 
-- **Tech Stack**: FastAPI, PostgreSQL, Supabase, Next.js, TypeScript.
+- **Tech Stack**: FastAPI, PostgreSQL, Supabase, Next.js, TypeScript
 - **Highlights**: Business analytics dashboard, multi-branch monitoring, and operational insights.
 
-#### 🔹 [CodeFix](https://github.com/seinwinhtutAU/codefix_game) — Interactive Debugging Platform
-[CodeFix Link](https://codefix-game.vercel.app/)
+---
+
+#### 🔹 CodeFix — Interactive Debugging Platform
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Preview-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://codefix-game.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seinwinhtutAU/codefix_game)
 
 > An interactive educational platform designed to help users understand programming errors and improve their debugging skills.
 
