@@ -46,7 +46,8 @@
 
 ### 📌 Featured Projects
 
-#### 🔹 [BranchWise](https://github.com/seinwinhtutAU/branchwise) — Business Monitoring & Decision Support
+#### 🔹 [BranchWise](https://github.com/seinwinhtutAU/branchwise) — Business Monitoring & Decision Support 
+[BranchWise Link](https://branchwise-demo.vercel.app/) 
 
 > A centralized platform helping retail and wholesale businesses monitor sales, inventory, purchasing, and branch-level performance.
 
@@ -54,6 +55,7 @@
 - **Highlights**: Business analytics dashboard, multi-branch monitoring, and operational insights.
 
 #### 🔹 [CodeFix](https://github.com/seinwinhtutAU/codefix_game) — Interactive Debugging Platform
+[CodeFix Link](https://codefix-game.vercel.app/)
 
 > An interactive educational platform designed to help users understand programming errors and improve their debugging skills.
 
